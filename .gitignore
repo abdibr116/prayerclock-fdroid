@@ -1,0 +1,9 @@
+# Secrets and local state — never published.
+config.yml
+*.p12
+*.jks
+keystore*
+tmp/
+archive/
+unsigned/
+.DS_Store

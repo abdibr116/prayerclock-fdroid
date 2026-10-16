@@ -1,0 +1,35 @@
+PrayerClock turns your phone into a prayer clock: accurate offline prayer times, real alarms that ring like the built-in Clock app, and a live countdown on your home screen.
+
+<b>Accurate, offline</b>
+<ul>
+<li>Prayer times computed on your phone — no server, no account, works in airplane mode</li>
+<li>Umm al-Qura times match the official Saudi timetable to the minute on about 97% of days</li>
+<li>12 calculation methods (Umm al-Qura, Muslim World League, ISNA, Egyptian, Karachi, Tehran and more), Asr madhab, high-latitude rule, later Isha in Ramadan</li>
+<li>Automatic location while the app is open, or pick from 235,000 cities offline — with Arabic names</li>
+<li>Hijri calendar with ±1 day adjustment, plus Duha, Isfirar, Midnight and the thirds of the night</li>
+</ul>
+
+<b>Day view</b>
+The whole day on one timeline: prayer periods, Duha, times when prayer is not allowed, and the night — with a live marker showing where you are now.
+
+<b>Real alarms</b>
+<ul>
+<li>Alarms relative to prayers ("20 minutes before Fajr") that move with the prayer time every day</li>
+<li>Full-screen alarms with recorded adhan from Makkah and Madinah and 16 more sounds</li>
+<li>Repeat by weekday, 9-minute snooze, labels, and "Skip Today"</li>
+<li>Adhan notifications, reminders before the prayer and iqama reminders after it</li>
+</ul>
+
+<b>More tools</b>
+<ul>
+<li>Prayer-relative timers ("30 minutes before Maghrib")</li>
+<li>Qibla compass (true north) with distance to Makkah</li>
+<li>Tasbih counter with a target and rounds</li>
+<li>Hijri ↔ Gregorian converter</li>
+<li>Home-screen widgets in three sizes</li>
+</ul>
+
+<b>Private by design</b>
+No analytics, no ads, no tracking, no account. The app itself has no internet permission: prayer times, qibla and city names are all computed on your phone.
+
+Full Arabic and right-to-left support.

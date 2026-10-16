@@ -1,0 +1,11 @@
+# Self-hosted repo: the APKs in repo/ are prebuilt and signed with the
+# PrayerClock upload key; F-Droid only indexes them (no source builds).
+AuthorName: Abdulrahman Ibrahim
+AuthorEmail: abdibr116@gmail.com
+License: Proprietary
+WebSite: https://abdibr116.github.io/prayerclock-support/
+IssueTracker: https://abdibr116.github.io/prayerclock-support/
+Categories:
+  - Time
+  - Religion
+AutoName: PrayerClock
